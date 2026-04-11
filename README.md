@@ -215,4 +215,3 @@ Possible improvements for this project:
 ## Author
 
 Prashant  
-DevOps Learning Project
