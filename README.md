@@ -208,7 +208,7 @@ Possible improvements for this project:
 - Send report notifications via email  
 - Upload reports to S3  
 - Add logging and error handling  
-- Build a monitoring dashboard  
+- Build a monitoring dashboard.
 
 ---
 
