@@ -144,7 +144,7 @@ Execute the script:
 
 ./resource-tracker.sh  
 
-After running the script, a report file will be generated.
+After running the script, a report file will be generated
 
 Example:
 
